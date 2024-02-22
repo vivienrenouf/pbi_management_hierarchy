@@ -5,4 +5,5 @@ Data source as google sheet: https://docs.google.com/spreadsheets/d/1uGLIoubyjs9
 
 Articles explaining the process:
 https://data-mozart.com/finding-the-right-path-understanding-parent-child-hierarchies-in-power-bi/
+
 https://www.daxpatterns.com/parent-child-hierarchies/
